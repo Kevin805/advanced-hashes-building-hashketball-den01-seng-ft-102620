@@ -66,7 +66,7 @@ def game_hash
     :colors => ["Turquoise", "Purple"],
     :players => [
       {
-      :name => "Jeff Adrien",
+      :player_name => "Jeff Adrien",
       :number => 4,
       :shoe => 18,
       :points => 10,
@@ -77,7 +77,7 @@ def game_hash
       :slam_dunks => 2
       },
       {
-      :name => "Bismak Biyombo", 
+      :player_name => "Bismak Biyombo", 
       :number => 0,
       :shoe => 16,
       :points => 12,
@@ -88,7 +88,7 @@ def game_hash
       :slam_dunks => 10
       },
       {
-      :name => "DeSagna Diop", 
+      :player_name => "DeSagna Diop", 
       :number => 2,
       :shoe => 14,
       :points => 24,
@@ -99,7 +99,7 @@ def game_hash
       :slam_dunks => 5
       },
       {
-      :name => "Ben Gordon",
+      :player_name => "Ben Gordon",
       :number => 8,
       :shoe => 15,
       :points => 33,
@@ -110,7 +110,7 @@ def game_hash
       :slam_dunks => 0
       },
       {
-      :name => "Brendan Haywood",
+      :player_name => "Brendan Haywood",
       :number => 33,
       :shoe => 15,
       :points => 6,
